@@ -1,35 +1,17 @@
-# client
+# Turu Client
+## Introduction
+This README provides information for users on the client side of the website.
 
-This template should help get you started developing with Vue 3 in Vite.
+## Links
+- Live Site Client-Side URL: [Live site](https://turu-client.web.app)
+- Live Site Admin CMS URL: [Live site](https://turu-cms.web.app)
+- Server repository : [Repo server](https://github.com/annisa-rachma/server-turu)
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+## Features
+### Accommodation Listings:
+- Explore a variety of accommodations with detailed information.
+### Filtering Options:
+- Filter accommodations based on type, location, and name.
+### Bookmarking:
+- When Logged In: Users can bookmark accommodations, and the bookmarked list will appear in the "My Bookmarks" page.
+- When Logged Out: Users can explore accommodations but won't be able to bookmark or access the "My Bookmarks" page.
