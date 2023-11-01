@@ -4,7 +4,7 @@ This README provides information for users on the client side of the website.
 
 ## Links
 - Live Site Client-Side URL: [Live site](https://turu-client.web.app)
-- Live Site Admin CMS URL: [Live site](https://turu-cms.web.app)
+- Live Site Admin CMS URL: [Live site](https://turu-cms.web.app) (email: admin1@mail.com, password : 123456)
 - Server repository : [Repo server](https://github.com/annisa-rachma/server-turu)
 
 ## Features
